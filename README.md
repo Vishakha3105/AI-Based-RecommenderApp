@@ -47,16 +47,3 @@ recommenderapp/
     <artifactId>mahout-core</artifactId>
     <version>0.9</version>
 </dependency>
-
-🧑‍💻 Author
-Intern: Vishakha Kandrikar
-Task: Task 4 – Java Programming Internship
-
-📜 License
-This project is for educational purposes as part of a Java internship.
-
-🧑‍💻 Author
-Intern: Vishakha Kandrikar Task: Task 4 – Java Programming Internship
-
-📜 License
-This project is for educational purposes as part of a Java internship.
